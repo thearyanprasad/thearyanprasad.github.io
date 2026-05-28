@@ -31,7 +31,7 @@ Aspiring Data Analyst | Power BI • SQL • Python • Excel
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages & Tools
 
@@ -49,42 +49,70 @@ Aspiring Data Analyst | Power BI • SQL • Python • Excel
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 📊 LV Analytics Dashboard
+## 📊 LV Analytics Dashboard
 
-- Developed an interactive Power BI dashboard for business insights
-- Created KPI tracking and trend analysis reports
-- Performed data cleaning, transformation, and visualization
-- Focused on clean UI/UX and analytical storytelling
+An interactive Power BI dashboard focused on business analytics, KPI tracking, trend analysis, and visualization storytelling.
+
+### 🔹 Highlights
+- KPI Tracking
+- Interactive Visualizations
+- Business Insights
+- Dashboard UI Design
+- Data Cleaning & Transformation
 
 🔗 Repository:  
 https://github.com/thearyanprasad/LV-Analytics-Dashboard
 
 ---
 
-### 🐍 Python Automation & Analytics
+## ⚡ Pokémon Excel Dashboard
 
-- Used **Pandas & Scikit-learn** for analytics workflows
-- Worked on data preprocessing and statistical reporting
-- Built mini automation and analytics projects using Python
+An interactive Excel dashboard created using Pivot Tables, Charts, KPI Cards, and Slicers to analyze Pokémon statistics and trends.
+
+### 🔹 Highlights
+- Pivot Tables & Charts
+- KPI Cards
+- Dynamic Slicers
+- Comparative Analysis
+- Interactive Reporting
+
+🔗 Repository:  
+https://github.com/thearyanprasad/pokemon-excel-dashboard
 
 ---
 
-## 💼 Experience
+## 💻 SQL Sales Analysis Project
 
-### 🏢 Eagletfly Solutions Pvt Ltd.
-**Data Analytics Industrial Internship (6 Months)**
+SQL-based E-Commerce Sales Analysis project performed using MySQL to extract business insights from raw sales data.
+
+### 🔹 Highlights
+- SQL Queries
+- Data Aggregation
+- GROUP BY Analysis
+- Sales & Profit Insights
+- Business Reporting
+
+🔗 Repository:  
+https://github.com/thearyanprasad/sql-sales-analysis
+
+---
+
+# 💼 Experience
+
+## 🏢 Eagletfly Solutions Pvt Ltd.
+### Data Analytics Industrial Internship (6 Months)
 
 - Worked on the complete data lifecycle
-- Used SQL for data extraction and business analysis
+- Used SQL for data extraction and analysis
 - Built dashboards and visual reports using Power BI
 - Applied Python libraries for analytics and visualization
 - Worked on real-world data-driven projects
 
 ---
 
-## 📚 Education
+# 📚 Education
 
 🎓 **Bachelor of Computer Applications (BCA)**  
 IGNOU — *Pursuing (Expected Graduation: 2027)*
@@ -95,7 +123,7 @@ IGNOU — *Pursuing (Expected Graduation: 2027)*
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thearyanprasad&show_icons=true&theme=tokyonight" height="170"/>
@@ -105,7 +133,7 @@ IGNOU — *Pursuing (Expected Graduation: 2027)*
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:prasadaryan.work@gmail.com">📧 Email</a><br>
@@ -119,7 +147,7 @@ IGNOU — *Pursuing (Expected Graduation: 2027)*
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 > I enjoy transforming raw datasets into interactive dashboards and meaningful business insights.
 
