@@ -64,7 +64,7 @@ Building Interactive Dashboards & Data-Driven Insights 📊
 
 ## 📊 LV Analytics Dashboard
 
-<img src="YOUR_LV_DASHBOARD_IMAGE_LINK" width="100%"/>
+<img src="(https://github.com/thearyanprasad/LV-Analytics-Dashboard/blob/main/dashboard1.png)" width="100%"/>
 
 ### 🔹 Overview
 Interactive Power BI dashboard focused on:
