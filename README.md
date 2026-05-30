@@ -1,58 +1,61 @@
 <div align="center">
 
-# 👋 Aryan Prasad
+# Aryan Prasad
 
-### 📊 Aspiring Data Analyst | Power BI • SQL • Python • Excel
+### 📊 Aspiring Data Analyst
 
-Transforming raw data into actionable insights through dashboards, analytics, and business intelligence.
+**Power BI • SQL • Python • Excel**
+
+Transforming raw data into actionable business insights through dashboards, analytics, and data storytelling.
 
 <br>
 
 <a href="https://www.linkedin.com/in/prasadaryan9354">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thearyanprasad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://thearyanprasad.github.io">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-673AB7?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 BCA Student at IGNOU (Expected 2027)
+- 🎓 BCA Student at IGNOU (Expected Graduation: 2027)
 - 📊 Passionate about Data Analytics & Dashboard Development
-- 💼 Completed a 6-Month Data Analytics Internship at Eagletfly Solutions Pvt Ltd.
-- 📈 Skilled in Power BI, SQL, Excel, and Python
-- 🎯 Focused on building real-world analytics projects and business intelligence solutions
+- 💼 Completed a 6-Month Data Analytics Internship at Eagletfly Solutions Pvt Ltd
+- 🛠 Skilled in Power BI, SQL, Excel, and Python
+- 📈 Focused on creating business intelligence solutions and interactive dashboards
+- 🚀 Continuously learning advanced analytics and data storytelling
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages & Tools
+## Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
@@ -62,96 +65,152 @@ Transforming raw data into actionable insights through dashboards, analytics, an
 
 ## 📊 LV Analytics Dashboard
 
-- Built an interactive Power BI dashboard for KPI tracking and business insights
-- Performed data cleaning, transformation, and visualization
-- Created trend analysis and performance monitoring reports
+### Overview
 
-**Tools:** Power BI • SQL • Excel
+Interactive Power BI Dashboard designed for:
 
-🔗 Repository:  
+- KPI Tracking
+- Business Performance Analysis
+- Trend Monitoring
+- Executive Reporting
+
+### Tools Used
+
+`Power BI` `Excel` `SQL`
+
+🔗 Repository
+
 https://github.com/thearyanprasad/LV-Analytics-Dashboard
 
 ---
 
 ## ⚡ Pokémon Excel Dashboard
 
-- Interactive dashboard built using Pivot Tables and Dynamic Slicers
-- Designed KPI cards and performance metrics
-- Created user-friendly analytics reports
+### Overview
 
-**Tools:** Excel • Pivot Tables • Dashboard Design
+Interactive Excel Dashboard featuring:
 
-🔗 Repository:  
-https://github.com/thearyanprasad/pokemon-excel-dashboard
+- Dynamic Slicers
+- KPI Cards
+- Pivot Tables
+- Interactive Charts
+- Data Visualization
 
----
+### Key Metrics
 
-## 💻 SQL Sales Analysis
+- Total Pokémon
+- Legendary Count
+- Average Attack
+- Average Defense
 
-- Analyzed sales and business performance using SQL queries
-- Created reports using aggregation and filtering techniques
-- Generated actionable business insights
+### Tools Used
 
-**Tools:** SQL • MySQL • Data Analysis
+`Excel` `Dashboard Design` `Pivot Tables`
 
-🔗 Repository:  
-https://github.com/thearyanprasad/sql-sales-analysis
+🔗 Repository
 
----
-
-## 💼 Experience
-
-### 🏢 Eagletfly Solutions Pvt Ltd.
-
-**Data Analytics Industrial Internship (6 Months)**
-
-- Worked on data extraction and analysis using SQL
-- Built dashboards and reports using Power BI
-- Applied Python for data processing and analytics
-- Worked with real-world business datasets
+https://github.com/thearyanprasad
 
 ---
 
-## 📈 GitHub Stats
+## 🗃 SQL Sales Analysis
+
+### Overview
+
+Business-focused SQL Project analyzing:
+
+- Revenue Trends
+- Product Performance
+- Customer Insights
+- Sales KPIs
+
+### Tools Used
+
+`MySQL` `SQL`
+
+🔗 Repository
+
+Coming Soon
+
+---
+
+# 💼 Experience
+
+## Eagletfly Solutions Pvt Ltd
+
+### Data Analytics Industrial Internship
+
+**Duration:** 6 Months
+
+Responsibilities:
+
+- SQL Data Extraction & Analysis
+- Dashboard Development
+- Data Cleaning & Transformation
+- Business Reporting
+- Data Visualization
+
+Technologies Used:
+
+`Power BI` `SQL` `Python` `Excel`
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thearyanprasad&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thearyanprasad&show_icons=true&theme=tokyonight" height="180"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanprasad&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thearyanprasad&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanprasad&theme=tokyonight" height="180"/>
 
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - Advanced SQL
 - Power BI Dashboard Development
 - Python for Data Analytics
-- Data Storytelling
 - Business Intelligence
+- Portfolio Building
+- Real-world Analytics Projects
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-📧 Email: **prasadaryan.work@gmail.com**
+<div align="center">
 
-🔗 LinkedIn: **www.linkedin.com/in/prasadaryan9354**
+<a href="mailto:prasadaryan.work@gmail.com">
+📧 Email
+</a>
 
-💻 GitHub: **github.com/thearyanprasad**
+|
 
-🌐 Portfolio: **thearyanprasad.github.io**
+<a href="https://github.com/thearyanprasad">
+💻 GitHub
+</a>
+
+|
+
+<a href="https://www.linkedin.com/in/prasadaryan9354">
+🔗 LinkedIn
+</a>
+
+|
+
+<a href="https://www.instagram.com/madmello_aryan">
+📸 Instagram
+</a>
+
+</div>
 
 ---
 
-> “Turning raw data into meaningful insights through analytics and visualization.”
+# ⚡ Fun Fact
 
-⭐ If you like my work, feel free to explore my repositories and connect with me.
+> I enjoy transforming raw datasets into meaningful insights and interactive dashboards that support better decision-making.
