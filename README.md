@@ -1,43 +1,27 @@
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasadaryan9354">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-# Aryan Prasad
+  <a href="https://github.com/thearyanprasad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-### 📊 Aspiring Data Analyst
-
-**Power BI • SQL • Python • Excel**
-
-Transforming raw data into actionable business insights through dashboards, analytics, and data storytelling.
-
-<br>
-
-<a href="https://www.linkedin.com/in/prasadaryan9354">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thearyanprasad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://thearyanprasad.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-</div>
+  <a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # 🚀 About Me
 
 - 🎓 BCA Student at IGNOU (Expected Graduation: 2027)
-- 📊 Passionate about Data Analytics & Dashboard Development
+- 📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights
 - 💼 Completed a 6-Month Data Analytics Internship at Eagletfly Solutions Pvt Ltd
-- 🛠 Skilled in Power BI, SQL, Excel, and Python
-- 📈 Focused on creating business intelligence solutions and interactive dashboards
-- 🚀 Continuously learning advanced analytics and data storytelling
+- 📈 Skilled in Power BI, SQL, Excel, Python, and Dashboard Development
+- 🎯 Focused on Business Intelligence, Data Visualization, and Analytics Solutions
+- 🚀 Currently building real-world analytics projects to strengthen my portfolio
 
 ---
 
@@ -67,11 +51,14 @@ Transforming raw data into actionable business insights through dashboards, anal
 
 ### Overview
 
-Interactive Power BI Dashboard designed for:
+Interactive business intelligence dashboard developed using Power BI.
+
+### Features
 
 - KPI Tracking
-- Business Performance Analysis
-- Trend Monitoring
+- Trend Analysis
+- Business Insights
+- Interactive Filtering
 - Executive Reporting
 
 ### Tools Used
@@ -88,61 +75,59 @@ https://github.com/thearyanprasad/LV-Analytics-Dashboard
 
 ### Overview
 
-Interactive Excel Dashboard featuring:
+Interactive Excel dashboard built using Pivot Tables, KPI Cards, and Dynamic Slicers.
 
+### Features
+
+- Pokémon Type Analysis
+- Generation-wise Analysis
+- Legendary vs Normal Comparison
 - Dynamic Slicers
-- KPI Cards
-- Pivot Tables
-- Interactive Charts
-- Data Visualization
+- Interactive KPI Cards
 
-### Key Metrics
+### KPIs Included
 
-- Total Pokémon
+- Total Pokémon Count
 - Legendary Count
 - Average Attack
 - Average Defense
 
 ### Tools Used
 
-`Excel` `Dashboard Design` `Pivot Tables`
-
-🔗 Repository
-
-https://github.com/thearyanprasad
+`Excel` `Pivot Tables` `Dashboard Design`
 
 ---
 
-## 🗃 SQL Sales Analysis
+## 🗃 SQL Analytics Projects
 
 ### Overview
 
-Business-focused SQL Project analyzing:
+Collection of SQL projects focused on solving business problems using data.
 
-- Revenue Trends
-- Product Performance
-- Customer Insights
-- Sales KPIs
+### Topics Covered
+
+- Joins
+- Subqueries
+- Window Functions
+- Aggregations
+- KPI Analysis
+- Reporting Queries
 
 ### Tools Used
 
 `MySQL` `SQL`
 
-🔗 Repository
-
-Coming Soon
-
 ---
 
 # 💼 Experience
 
-## Eagletfly Solutions Pvt Ltd
+## Data Analytics Industrial Internship
 
-### Data Analytics Industrial Internship
+### Eagletfly Solutions Pvt Ltd
 
 **Duration:** 6 Months
 
-Responsibilities:
+### Responsibilities
 
 - SQL Data Extraction & Analysis
 - Dashboard Development
@@ -150,9 +135,18 @@ Responsibilities:
 - Business Reporting
 - Data Visualization
 
-Technologies Used:
+### Technologies Used
 
 `Power BI` `SQL` `Python` `Excel`
+
+---
+
+# 📚 Education
+
+### Bachelor of Computer Applications (BCA)
+
+**IGNOU**  
+Expected Graduation: 2027
 
 ---
 
@@ -160,57 +154,40 @@ Technologies Used:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thearyanprasad&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thearyanprasad&show_icons=true&theme=tokyonight"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanprasad&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanprasad&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Learning Roadmap
 
 - Advanced SQL
 - Power BI Dashboard Development
 - Python for Data Analytics
+- Data Cleaning & Automation
 - Business Intelligence
-- Portfolio Building
-- Real-world Analytics Projects
+- Statistical Analysis
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:prasadaryan.work@gmail.com">
-📧 Email
-</a>
+<a href="mailto:prasadaryan.work@gmail.com">📧 Email</a> •
+<a href="https://github.com/thearyanprasad">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/prasadaryan9354">🔗 LinkedIn</a> •
+<a href="https://www.instagram.com/madmello_aryan">📸 Instagram</a>
 
-|
-
-<a href="https://github.com/thearyanprasad">
-💻 GitHub
-</a>
-
-|
-
-<a href="https://www.linkedin.com/in/prasadaryan9354">
-🔗 LinkedIn
-</a>
-
-|
-
-<a href="https://www.instagram.com/madmello_aryan">
-📸 Instagram
-</a>
-
-</div>
+</p>
 
 ---
 
 # ⚡ Fun Fact
 
-> I enjoy transforming raw datasets into meaningful insights and interactive dashboards that support better decision-making.
+> I enjoy transforming raw datasets into interactive dashboards that help businesses make smarter decisions.
