@@ -47,11 +47,17 @@
 
 # 📂 Featured Projects
 
+---
+
 ## 📊 LV Analytics Dashboard
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/thearyanprasad/LV-Analytics-Dashboard/main/dashboard1.png" width="100%">
+</p>
 
 ### Overview
 
-Interactive business intelligence dashboard developed using Power BI.
+Interactive business intelligence dashboard developed using Power BI to analyze business performance and key metrics.
 
 ### Features
 
@@ -73,16 +79,20 @@ https://github.com/thearyanprasad/LV-Analytics-Dashboard
 
 ## ⚡ Pokémon Excel Dashboard
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/thearyanprasad/pokemon-excel-dashboard/main/dashboard_preview_excel.png" width="100%">
+</p>
+
 ### Overview
 
-Interactive Excel dashboard built using Pivot Tables, KPI Cards, and Dynamic Slicers.
+Interactive Excel dashboard built using Pivot Tables, KPI Cards, Charts, and Dynamic Slicers.
 
 ### Features
 
 - Pokémon Type Analysis
 - Generation-wise Analysis
 - Legendary vs Normal Comparison
-- Dynamic Slicers
+- Dynamic Filtering
 - Interactive KPI Cards
 
 ### KPIs Included
@@ -96,26 +106,32 @@ Interactive Excel dashboard built using Pivot Tables, KPI Cards, and Dynamic Sli
 
 `Excel` `Pivot Tables` `Dashboard Design`
 
+🔗 Repository
+
+https://github.com/thearyanprasad/pokemon-excel-dashboard
+
 ---
 
 ## 🗃 SQL Analytics Projects
 
 ### Overview
 
-Collection of SQL projects focused on solving business problems using data.
+Collection of SQL projects focused on solving business problems through data analysis and reporting.
 
 ### Topics Covered
 
 - Joins
 - Subqueries
 - Window Functions
-- Aggregations
 - KPI Analysis
-- Reporting Queries
+- Aggregations
+- Business Reporting
 
 ### Tools Used
 
 `MySQL` `SQL`
+
+🚀 More SQL projects coming soon...
 
 ---
 
