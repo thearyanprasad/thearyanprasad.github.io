@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a <a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf" target="_blank">
+  Resume
+</a>
   <img src="https://img.shields.io/badge/Resume-Download-purple?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
