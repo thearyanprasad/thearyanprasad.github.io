@@ -1,39 +1,55 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/prasadaryan9354">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/thearyanprasad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+# Aryan Prasad
 
-  <a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
+### 📊 Aspiring Data Analyst
+
+**Power BI • SQL • Python • Excel**
+
+Transforming raw data into actionable business insights through dashboards, analytics, and data storytelling.
+
+<br>
+
+<a href="https://www.linkedin.com/in/prasadaryan9354">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thearyanprasad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+# 🎯 Career Objective
+
+Aspiring Data Analyst with hands-on experience in Power BI, SQL, Excel, and Python. Passionate about transforming raw data into meaningful insights through analytics, dashboard development, and business intelligence.
 
 ---
 
 # 🚀 About Me
 
 - 🎓 BCA Student at IGNOU (Expected Graduation: 2027)
-- 📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights
+- 📊 Passionate about Data Analytics & Business Intelligence
 - 💼 Completed a 6-Month Data Analytics Internship at Eagletfly Solutions Pvt Ltd
-- 📈 Skilled in Power BI, SQL, Excel, Python, and Dashboard Development
-- 🎯 Focused on Business Intelligence, Data Visualization, and Analytics Solutions
-- 🚀 Currently building real-world analytics projects to strengthen my portfolio
+- 📈 Skilled in SQL, Power BI, Excel, Python, and Data Visualization
+- 🚀 Building real-world analytics projects and dashboards
+- 🎯 Focused on solving business problems through data-driven decisions
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages & Tools
-
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-</p>
 
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -47,32 +63,23 @@
 
 # 📂 Featured Projects
 
----
-
 ## 📊 LV Analytics Dashboard
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/thearyanprasad/LV-Analytics-Dashboard/main/dashboard1.png" width="100%">
 </p>
 
-### Overview
-
-Interactive business intelligence dashboard developed using Power BI to analyze business performance and key metrics.
-
-### Features
+### Highlights
 
 - KPI Tracking
 - Trend Analysis
 - Business Insights
-- Interactive Filtering
 - Executive Reporting
+- Interactive Filtering
 
-### Tools Used
+**Tools:** `Power BI` `Excel` `SQL`
 
-`Power BI` `Excel` `SQL`
-
-🔗 Repository
-
+🔗 Repository:  
 https://github.com/thearyanprasad/LV-Analytics-Dashboard
 
 ---
@@ -83,55 +90,36 @@ https://github.com/thearyanprasad/LV-Analytics-Dashboard
 <img src="https://raw.githubusercontent.com/thearyanprasad/pokemon-excel-dashboard/main/dashboard_preview_excel.png" width="100%">
 </p>
 
-### Overview
+### Highlights
 
-Interactive Excel dashboard built using Pivot Tables, KPI Cards, Charts, and Dynamic Slicers.
+- Dynamic Slicers
+- KPI Cards
+- Pivot Tables
+- Interactive Charts
+- Pokémon Analytics
 
-### Features
+**Tools:** `Excel` `Pivot Tables` `Dashboard Design`
 
-- Pokémon Type Analysis
-- Generation-wise Analysis
-- Legendary vs Normal Comparison
-- Dynamic Filtering
-- Interactive KPI Cards
-
-### KPIs Included
-
-- Total Pokémon Count
-- Legendary Count
-- Average Attack
-- Average Defense
-
-### Tools Used
-
-`Excel` `Pivot Tables` `Dashboard Design`
-
-🔗 Repository
-
+🔗 Repository:  
 https://github.com/thearyanprasad/pokemon-excel-dashboard
 
 ---
 
-## 🗃 SQL Analytics Projects
+## 🗃 SQL Sales Analysis Project
 
-### Overview
+### Highlights
 
-Collection of SQL projects focused on solving business problems through data analysis and reporting.
+- Revenue Analysis
+- Product Performance
+- Regional Performance
+- Customer Analysis
+- Monthly Sales Trends
+- Profitability Analysis
 
-### Topics Covered
+**Tools:** `MySQL` `SQL`
 
-- Joins
-- Subqueries
-- Window Functions
-- KPI Analysis
-- Aggregations
-- Business Reporting
-
-### Tools Used
-
-`MySQL` `SQL`
-
-🚀 More SQL projects coming soon...
+🔗 Repository:  
+https://github.com/thearyanprasad/sql-sales-analysis
 
 ---
 
@@ -161,8 +149,30 @@ Collection of SQL projects focused on solving business problems through data ana
 
 ### Bachelor of Computer Applications (BCA)
 
-**IGNOU**  
+**IGNOU**
+
 Expected Graduation: 2027
+
+---
+
+# 📜 Certifications & Achievements
+
+- Data Analytics Industrial Internship – Eagletfly Solutions Pvt Ltd
+- Developed Interactive Power BI Dashboard
+- Built Pokémon Analytics Dashboard in Excel
+- Created SQL Sales Analysis Project using MySQL
+- Published Personal Portfolio Website
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI DAX
+- Python for Data Analytics
+- Data Cleaning & Automation
+- Statistical Analysis
+- Business Intelligence
 
 ---
 
@@ -177,17 +187,6 @@ Expected Graduation: 2027
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanprasad&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🎯 Current Learning Roadmap
-
-- Advanced SQL
-- Power BI Dashboard Development
-- Python for Data Analytics
-- Data Cleaning & Automation
-- Business Intelligence
-- Statistical Analysis
 
 ---
 
@@ -206,4 +205,6 @@ Expected Graduation: 2027
 
 # ⚡ Fun Fact
 
-> I enjoy transforming raw datasets into interactive dashboards that help businesses make smarter decisions.
+> I enjoy transforming raw datasets into interactive dashboards and meaningful business insights.
+
+⭐ If you like my work, feel free to connect with me and explore my projects.
