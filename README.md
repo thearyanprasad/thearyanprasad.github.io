@@ -18,7 +18,7 @@ Transforming raw data into actionable business insights through analytics, dashb
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://thearyanprasad.github.io/assets/Aryan_Prasad_Resume.pdf">
+<a href="https://thearyanprasad.github.io/assets/Aryan's CV-Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-6A1B9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
